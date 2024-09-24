@@ -328,28 +328,28 @@ export const serviceList10 = [
     id: 1,
     linkUrl: '#',
     Icon: Script,
-    title: 'Software & Integration',
+    title: 'Free product identification codes',
     description: `Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit nullam quis risus eget.`
   },
   {
     id: 2,
     linkUrl: '#',
     Icon: Verify,
-    title: 'Network Security',
+    title: 'Open-source and community-managed',
     description: `Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit nullam quis risus eget.`
   },
   {
     id: 3,
     linkUrl: '#',
     Icon: CloudNetwork,
-    title: 'Cloud Services',
+    title: 'No licensing or registration fees',
     description: `Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit nullam quis risus eget.`
   },
   {
     id: 4,
     linkUrl: '#',
     Icon: Director,
-    title: 'Wireless Networking',
+    title: 'Globally recognized and standardized',
     description: `Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit nullam quis risus eget.`
   },
   {

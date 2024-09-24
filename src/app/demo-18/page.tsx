@@ -28,7 +28,7 @@ export default function Demo18() {
         <section className="wrapper bg-light">
           <div className="container pt-14 pt-md-17 pb-14 pb-md-18">
             {/* ========== what we do section ========== */}
-            <Services20 />
+            {/*<Services20 />*/}
 
             {/* ========== have perfect section ========== */}
             <About17 />

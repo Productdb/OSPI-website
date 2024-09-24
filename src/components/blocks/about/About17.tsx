@@ -13,7 +13,7 @@ export default function About17() {
 
       <div className="col-lg-5 offset-lg-1">
         <h2 className="fs-16 text-uppercase text-gradient gradient-1 mb-3">Have Perfect Control</h2>
-        <h3 className="display-4 mb-4">We bring solutions to make life easier for our customers.</h3>
+        <h3 className="display-4 mb-4">Key Features of OSPI</h3>
         <p className="mb-6">
           Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus
           ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
