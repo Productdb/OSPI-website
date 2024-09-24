@@ -1,4 +1,3 @@
-"use client";
 import { Fragment } from "react";
 
 // GLOBAL CUSTOM COMPONENTS
