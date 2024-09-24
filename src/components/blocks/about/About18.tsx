@@ -44,31 +44,32 @@ export default function About18() {
       </div>
 
       <div className="col-lg-5">
-        <h2 className="fs-16 text-uppercase text-gradient gradient-1 mb-3">What Makes Us Different?</h2>
-        <h3 className="display-4 mb-4 me-lg-n5">We make spending stress free so you have the perfect control.</h3>
-        <p className="mb-6">
-          Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla. Morbi leo
-          risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus. Integer posuere erat a
-          ante venenatis dapibus posuere velit.
-        </p>
+  <h2 className="fs-16 text-uppercase text-gradient gradient-1 mb-3">What Makes Us Different?</h2>
+  <h3 className="display-4 mb-4 me-lg-n5">We provide a cost-free, open-source product identification system.</h3>
+  <p className="mb-6">
+    Unlike traditional systems that require costly registrations and central control, OSPI offers a free and open 
+    product identification standard accessible to businesses of all sizes. Empower your business with global 
+    identification without the fees and complexities.
+  </p>
 
-        <ul className="icon-list bullet-bg bullet-soft-primary">
-          <li>
-            <i className="uil uil-check" />
-            Aenean eu leo quam. Pellentesque ornare.
-          </li>
+  <ul className="icon-list bullet-bg bullet-soft-primary">
+    <li>
+      <i className="uil uil-check" />
+      Completely free and open-source.
+    </li>
 
-          <li>
-            <i className="uil uil-check" />
-            Nullam quis risus eget urna mollis ornare.
-          </li>
+    <li>
+      <i className="uil uil-check" />
+      No licensing or registration fees required.
+    </li>
 
-          <li>
-            <i className="uil uil-check" />
-            Donec id elit non mi porta gravida at eget.
-          </li>
-        </ul>
-      </div>
+    <li>
+      <i className="uil uil-check" />
+      Flexible and customizable to fit your business needs.
+    </li>
+  </ul>
+</div>
+
     </div>
   );
 }
