@@ -7,7 +7,7 @@ import { serviceList2 } from "data/service";
 export default function Services8() {
   return (
     <div className="row gx-lg-8 gy-8 mt-5 mt-md-12 mt-lg-0 mb-15 align-items-center">
-      <div className="col-lg-6 order-lg-2">
+      <div className="col-lg-3 order-lg-2">
         <Tiles4 />
       </div>
 
