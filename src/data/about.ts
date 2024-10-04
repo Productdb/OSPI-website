@@ -14,8 +14,8 @@ export const aboutList1 = [
 
 // used in the about-6, about-19 block
 export const aboutList2 = [
-  ['Aenean eu leo quam ornare curabitur blandit tempus.', 'Nullam quis risus eget urna mollis ornare donec elit.'],
-  ['Etiam porta sem malesuada magna mollis euismod.', 'Fermentum massa vivamus faucibus amet euismod.']
+  ['We are dedicated to enhancing product identification standards through collaboration and innovation.', 'Our mission is to empower businesses with clear and consistent product data.'],
+  ['We believe in the transformative power of open standards for better data management.', 'Our community thrives on shared knowledge, support, and collective growth in the digital landscape.']
 ];
 
 // used in the about-11, about-19 block

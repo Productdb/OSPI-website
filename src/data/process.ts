@@ -17,20 +17,20 @@ export const processList1 = [
   {
     no: "1",
     className: "me-lg-6",
-    title: "Collect Ideas",
-    subtitle: "Nulla vitae elit libero pharetra augue dapibus."
+    title: "Explore the Framework",
+    subtitle: "Familiarize yourself with the OSPI standards and their applications in your business."
   },
   {
     no: "2",
-    title: "Data Analysis",
+    title: "Join the Community",
     className: "ms-lg-13 mt-6",
-    subtitle: "Vivamus sagittis lacus vel augue laoreet."
+    subtitle: "Engage with our community of users, developers, and experts to share insights and experiences."
   },
   {
     no: "3",
-    title: "Finalize Product",
+    title: "Implement the Standards",
     className: "mx-lg-6 mt-6",
-    subtitle: "Cras mattis consectetur purus sit amet."
+    subtitle: "Begin integrating OSPI standards into your product identification processes for improved data management."
   }
 ];
 

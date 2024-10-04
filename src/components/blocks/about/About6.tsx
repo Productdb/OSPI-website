@@ -17,13 +17,11 @@ export default function About6() {
         <h2 className="display-4 mb-3">Who Are We?</h2>
 
         <p className="lead fs-lg">
-          We are a digital and branding company that believes in the power of creative strategy and along with great
-          design.
+        We are a collaborative initiative dedicated to enhancing product identification standards. Our focus is on empowering businesses through clear, consistent, and accessible product data.
         </p>
 
         <p className="mb-6">
-          Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus
-          ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+        With a commitment to innovation and collaboration, we aim to bridge gaps in product information, ensuring that companies can thrive in the digital landscape.
         </p>
 
         <ListColumn rowClass="gx-xl-8" list={aboutList2} />

@@ -27,19 +27,15 @@ export default function Process7() {
         <div className="col-lg-6">
           <h2 className="display-6 mb-3">How It Works?</h2>
           <p className="lead fs-lg pe-lg-5">
-            Find out everything you need to know and more about how we create our business process models.
+          Discover everything you need to know about our process for creating effective business models.
           </p>
 
           <p>
-            Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Etiam porta sem malesuada
-            magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna
-            mollis ornare.
+          At OSPI, we focus on collaboration and innovation to develop standards that streamline product identification. Our approach involves engaging with the community, leveraging data insights, and refining our methodologies to ensure that our solutions are practical and impactful.
           </p>
 
           <p className="mb-6">
-            Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod semper.
-            Aenean lacinia bibendum nulla sed consectetur. Sed posuere consectetur est at lobortis. Vestibulum id ligula
-            porta felis.
+          Join us as we explore the transformative power of open standards in enhancing product data management.
           </p>
 
           <NextLink title="Learn More" href="#" className="btn btn-primary rounded-pill mb-0" />
