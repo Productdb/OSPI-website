@@ -30216,6 +30216,11 @@ form.dark-fields .form-control:focus {
   height: 3rem;
   font-size: calc(1.255rem + 0.06vw);
 }
+.btn.btn-circle.btn-xl, .btn-group-xl > .btn.btn-circle {
+  width: 4rem;
+  height: 4rem;
+  font-size: calc(1.255rem + 0.06vw);
+}
 @media (min-width: 1200px) {
   .btn.btn-circle.btn-lg, .btn-group-lg > .btn.btn-circle {
     font-size: 1.3rem;
