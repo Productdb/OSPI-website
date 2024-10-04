@@ -72,7 +72,6 @@ const pages = [
     id: 26,
     title: "Utility",
     children: [
-      { id: 261, title: "404 Not Found", url: "/asdasdasdasd" },
       { id: 262, title: "Login I", url: "/login-1" },
       { id: 263, title: "Login II", url: "/login-2" },
       { id: 264, title: "Register I", url: "/register-1" },
