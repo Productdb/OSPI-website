@@ -4973,6 +4973,12 @@ textarea.form-control-lg {
 .btn-link:hover {
   color: var(--bs-btn-hover-color);
 }
+.btn-xl, .btn-group-xl > .btn {
+  --bs-btn-padding-y: 0.9rem;
+  --bs-btn-padding-x: 1.8rem;
+  --bs-btn-font-size: 1.0rem;
+  --bs-btn-border-radius: 0.4rem;
+}
 
 .btn-lg, .btn-group-lg > .btn {
   --bs-btn-padding-y: 0.65rem;
