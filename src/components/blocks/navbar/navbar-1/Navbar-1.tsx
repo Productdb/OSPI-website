@@ -81,6 +81,8 @@ export default function NavbarOne({
 
             {/*  ===================== pages nav item  ===================== */}
             <PagesNavItem />
+            {/*  ===================== about nav item  ===================== */}
+            <NextLink href="/about" title="about" />
 
             {/* ===================== projects nav item  ===================== */}
             <ProjectsNavItem />
