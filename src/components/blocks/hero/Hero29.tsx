@@ -36,7 +36,7 @@ export default function Hero29() {
             </h1>
 
             <p className="lead fs-24 lh-sm mb-7">
-              Sandbox is available to download from both App Store and Google Play Store.
+              OSPI is available to download from both App Store and Google Play Store.
             </p>
 
             <div

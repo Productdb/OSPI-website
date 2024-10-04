@@ -16,7 +16,7 @@ export default function Hero13() {
         <div className="row mb-11">
           <div className="col-md-9 col-lg-7 col-xxl-6 mx-auto">
             <h2 className="h6 text-uppercase ls-xl text-white mb-5" style={zoomInAnimate("0ms")}>
-              Hello! This is Sandbox
+              Hello! This is OSPI
             </h2>
 
             <h3 className="display-1 text-white mb-7" style={zoomInAnimate("500ms")}>

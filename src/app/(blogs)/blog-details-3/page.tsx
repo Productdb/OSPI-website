@@ -44,7 +44,7 @@ export default function BlogDetailsThree() {
 
                     <li className="post-author">
                       <i className="uil uil-user" />
-                      <NextLink href="#" className="text-reset" title={<span>By Sandbox</span>} />
+                      <NextLink href="#" className="text-reset" title={<span>By OSPI</span>} />
                     </li>
 
                     <li className="post-comments">

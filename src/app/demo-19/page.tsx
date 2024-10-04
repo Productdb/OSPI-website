@@ -28,7 +28,7 @@ export default function Demo19() {
             {/* ========== services section ========== */}
             <Services21 />
 
-            {/* ========== why choose sandbox section ========== */}
+            {/* ========== why choose OSPI section ========== */}
             <Services22 />
           </div>
         </section>

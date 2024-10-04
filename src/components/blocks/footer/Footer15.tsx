@@ -9,7 +9,7 @@ export default function Footer15() {
             <div className="widget">
               <img className="mb-4" src="/img/logo-dark.png" srcSet="/img/logo-dark@2x.png 2x" alt="" />
               <p className="lead mb-0">
-                I'm Caitlyn Sandbox, a photographer specializing in food, drink and product photography.
+                I'm Caitlyn OSPI, a photographer specializing in food, drink and product photography.
               </p>
             </div>
           </div>
@@ -54,7 +54,7 @@ export default function Footer15() {
 
         <hr className="mt-11 mt-md-12 mb-7" />
         <div className="d-md-flex align-items-center justify-content-between">
-          <p className="mb-2 mb-lg-0">© 2022 Sandbox. All rights reserved.</p>
+          <p className="mb-2 mb-lg-0">© 2022 OSPI. All rights reserved.</p>
           <SocialLinks className="nav social social-muted mb-0 text-md-end" />
         </div>
       </div>

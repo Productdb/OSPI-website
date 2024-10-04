@@ -11,14 +11,14 @@ export default function Documentation() {
     <DocLayout
       pageTitle="Get Started"
       quickAccessLinks={quickAccess}
-      description="Guide to get started with Sandbox Modern & Multipurpose Bootstrap 5 Template.">
+      description="Guide to get started with OSPI Modern & Multipurpose Bootstrap 5 Template.">
       {/* ========== section 1 ========== */}
       <section id="snippet-1" className="wrapper pt-16">
         <h2 className="mb-5">Overview</h2>
         <div className="card">
           <div className="card-body">
             <p>
-              This guide will help you get started with Sandbox. All the information regarding file structure, build
+              This guide will help you get started with OSPI. All the information regarding file structure, build
               tools, components, credits, license and FAQ can be found here.
             </p>
 
@@ -182,7 +182,7 @@ export default function Documentation() {
               </li>
 
               <li>
-                Unzip the template package and in the root project folder <code className="folder">sandbox</code>, go to
+                Unzip the template package and in the root project folder <code className="folder">OSPI</code>, go to
                 your command line and run <kbd className="terminal">npm install</kbd>. This will install the npm
                 packages listed in the <code className="file">package.json</code> file.
               </li>

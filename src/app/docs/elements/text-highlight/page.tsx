@@ -24,7 +24,7 @@ export default function TextHighlight() {
         <div className="card">
           <div className="card-body">
             <p className="lead mb-0">
-              Build and manage an <span className="underline">impressive</span> website with Sandbox in no time.
+              Build and manage an <span className="underline">impressive</span> website with OSPI in no time.
             </p>
           </div>
 
@@ -51,12 +51,12 @@ export default function TextHighlight() {
         <div className="card">
           <div className="card-body">
             <h2 className="display-3 lh-xs mb-4">
-              Build and manage an <span className="underline-2 yellow">impressive</span> website with Sandbox in no
+              Build and manage an <span className="underline-2 yellow">impressive</span> website with OSPI in no
               time.
             </h2>
             <h2 className="display-3 lh-xs mb-0">
               Build and manage an <span className="underline-2 underline-gradient-2">impressive</span> website with
-              Sandbox in no time.
+              OSPI in no time.
             </h2>
           </div>
 
@@ -83,15 +83,15 @@ export default function TextHighlight() {
         <div className="card">
           <div className="card-body">
             <h2 className="display-3 lh-xs mb-4">
-              Build and manage an <span className="underline-3 style-1 red">impressive</span> website with Sandbox in no
+              Build and manage an <span className="underline-3 style-1 red">impressive</span> website with OSPI in no
               time.
             </h2>
             <h2 className="display-3 lh-xs mb-4">
-              Build and manage an <span className="underline-3 style-2 yellow">impressive</span> website with Sandbox in
+              Build and manage an <span className="underline-3 style-2 yellow">impressive</span> website with OSPI in
               no time.
             </h2>
             <h2 className="display-3 lh-xs mb-4">
-              Build and manage an <span className="underline-3 style-3 green">impressive</span> website with Sandbox in
+              Build and manage an <span className="underline-3 style-3 green">impressive</span> website with OSPI in
               no time.
             </h2>
           </div>

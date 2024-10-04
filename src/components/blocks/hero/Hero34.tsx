@@ -24,7 +24,7 @@ export default function Hero34() {
             </h1>
 
             <p className="lead fs-23 mb-7" style={slideInDownAnimate("900ms")}>
-              Build Performant & SEO freindly website in minutes with Sandbox React.
+              Build Performant & SEO freindly website in minutes with OSPI React.
             </p>
 
             <div

@@ -12,7 +12,7 @@ export default function Footer21() {
             <div className="widget">
               <img className="mb-4" src="/img/logo-dark.png" srcSet="/img/logo-dark@2x.png 2x" alt="" />
               <p className="mb-4">
-                © 2023 Sandbox. <br className="d-none d-lg-block" />
+                © 2023 OSPI. <br className="d-none d-lg-block" />
                 All rights reserved.
               </p>
 

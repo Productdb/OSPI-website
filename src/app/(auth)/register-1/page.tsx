@@ -32,7 +32,7 @@ export default function Register() {
             <div className="col-lg-7 col-xl-6 col-xxl-5 mx-auto mt-n20">
               <div className="card">
                 <div className="card-body p-11 text-center">
-                  <h2 className="mb-3 text-start">Sign up to Sandbox</h2>
+                  <h2 className="mb-3 text-start">Sign up to OSPI</h2>
                   <p className="lead mb-6 text-start">Registration takes less than a minute.</p>
                   <RegisterForm />
                 </div>

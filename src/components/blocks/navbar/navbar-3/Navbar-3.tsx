@@ -74,7 +74,7 @@ export default function Navbar3({
               className="navbar-collapse offcanvas offcanvas-nav offcanvas-start">
               <div className="offcanvas-header mx-lg-auto order-0 order-lg-1 d-lg-flex px-lg-15">
                 <NextLink href="/" className="transition-none d-none d-lg-flex" title={logos} />
-                <h3 className="text-white fs-30 mb-0 d-lg-none">Sandbox</h3>
+                <h3 className="text-white fs-30 mb-0 d-lg-none">OSPI</h3>
                 <button
                   type="button"
                   aria-label="Close"

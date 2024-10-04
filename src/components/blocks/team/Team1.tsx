@@ -11,7 +11,7 @@ export default function Team1() {
             <div className="col-lg-8 col-xl-7 col-xxl-6 mx-auto">
               <h2 className="fs-16 text-uppercase text-muted mb-3">Our Team</h2>
               <h3 className="display-4 mb-10 px-md-13 px-lg-4 px-xl-0">
-                Think unique and be innovative. Make a difference with Sandbox.
+                Think unique and be innovative. Make a difference with OSPI.
               </h3>
             </div>
           </div>

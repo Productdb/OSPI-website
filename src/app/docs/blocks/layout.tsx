@@ -88,7 +88,7 @@ export default function BlockLayout({ children }: PropsWithChildren) {
           <div className="row">
             <div className="col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
               <h2 className="display-3 text-white mt-3 mb-3 px-lg-8">
-                Think unique and be creative. Make a difference with Sandbox.
+                Think unique and be creative. Make a difference with OSPI.
               </h2>
 
               <p className="lead fs-lg mb-6">
@@ -97,7 +97,7 @@ export default function BlockLayout({ children }: PropsWithChildren) {
               </p>
 
               <a href="#" target="_blank" className="btn btn-lg btn-white rounded-pill mb-10" rel="noreferrer">
-                Buy Sandbox
+                Buy OSPI
               </a>
             </div>
           </div>

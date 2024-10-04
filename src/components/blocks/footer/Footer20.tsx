@@ -49,7 +49,7 @@ export default function Footer20() {
                   Let's make something great together. We are trusted by over 5000+ clients. Join them by using our
                   services and grow your business.
                 </p>
-                <p className="mb-1">© 2023 Sandbox. All rights reserved.</p>
+                <p className="mb-1">© 2023 OSPI. All rights reserved.</p>
 
                 <SocialLinks className="nav social social-white" />
               </div>

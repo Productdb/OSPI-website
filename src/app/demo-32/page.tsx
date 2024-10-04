@@ -48,7 +48,7 @@ export default function Demo32() {
         {/* ========== blog section ========== */}
         <Blog8 />
 
-        {/* ========== why choose sandbox section ========== */}
+        {/* ========== why choose OSPI section ========== */}
         <Services35 />
 
         {/* ========== our team section ========== */}

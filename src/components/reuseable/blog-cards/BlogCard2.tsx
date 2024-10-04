@@ -45,7 +45,7 @@ export default function BlogCard2({ cardTop, title, category, description, link 
             <li className="post-author">
               <Link href="#">
                 <i className="uil uil-user" />
-                <span>By Sandbox</span>
+                <span>By OSPI</span>
               </Link>
             </li>
 

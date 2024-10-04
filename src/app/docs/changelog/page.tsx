@@ -34,7 +34,7 @@ export default function Changelog() {
   return (
     <DocLayout
       pageTitle="Changelog"
-      description="Find out what is newly added, changed, fixed, improved or updated in the latest Sandbox versions.">
+      description="Find out what is newly added, changed, fixed, improved or updated in the latest OSPI versions.">
       <section id="snippet-3" className="wrapper pt-16">
         <h2 className="mb-5">v2.0.0 - 14 February 24</h2>
         <div className="card">

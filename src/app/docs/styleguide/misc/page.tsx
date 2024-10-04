@@ -19,14 +19,14 @@ export default function Misc() {
       quickAccessLinks={quickAccess}
       descriptionClass="lead px-xxl-12"
       headingColClass="col-md-9 col-lg-7 col-xl-5 mx-auto"
-      description="Learn more about some miscellaneous styling features used in Sandbox.">
+      description="Learn more about some miscellaneous styling features used in OSPI.">
       {/* ========== section 1 ========== */}
       <section id="snippet-1" className="wrapper pt-16">
         <h2 className="mb-5">Spacing</h2>
         <div className="card">
           <div className="card-body">
             <p className="mb-0">
-              Sandbox adds additional spacing variables to existing{" "}
+              OSPI adds additional spacing variables to existing{" "}
               <a
                 href="https://getbootstrap.com/docs/5.2/utilities/spacing/"
                 className="external"

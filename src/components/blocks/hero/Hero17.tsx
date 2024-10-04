@@ -9,7 +9,7 @@ export default function Hero17() {
         <div className="row">
           <div className="col-lg-8 col-xxl-7 mx-auto text-center">
             <h2 className="fs-16 text-uppercase ls-xl text-dark mb-4" style={slideInDownAnimate("600ms")}>
-              Hello! This is Sandbox
+              Hello! This is OSPI
             </h2>
 
             <h1 className="display-1 fs-58 mb-7" style={slideInDownAnimate("900ms")}>

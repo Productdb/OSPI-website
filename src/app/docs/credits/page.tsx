@@ -13,7 +13,7 @@ export default function Credits() {
     <DocLayout
       pageTitle="Credits"
       quickAccessLinks={quickAccess}
-      description="List of source links of JS, images, icons and illustrations used in Sandbox.">
+      description="List of source links of JS, images, icons and illustrations used in OSPI.">
       {/* ========== section 1 ========== */}
       <section id="snippet-1" className="wrapper pt-16">
         <h2 className="mb-5">JS</h2>
@@ -280,9 +280,9 @@ export default function Credits() {
           <div className="card-body">
             <h3>Pexels</h3>
             <p className="mb-5">
-              To reach the collection of all images/videos from Pexels used in Sandbox, click{" "}
+              To reach the collection of all images/videos from Pexels used in OSPI, click{" "}
               <a
-                href="https://www.pexels.com/collections/sandbox-gbw1t9c/"
+                href="https://www.pexels.com/collections/OSPI-gbw1t9c/"
                 className="external"
                 target="_blank"
                 rel="noreferrer">
@@ -328,9 +328,9 @@ export default function Credits() {
             <hr className="mt-11 mb-10" />
             <h3>Rawpixel</h3>
             <p className="mb-5">
-              To reach the collection of all images from Rawpixel used in Sandbox, click{" "}
+              To reach the collection of all images from Rawpixel used in OSPI, click{" "}
               <a
-                href="https://www.rawpixel.com/community-board/1391692/sandbox?sort=last_added&mode=shop&page=1"
+                href="https://www.rawpixel.com/community-board/1391692/OSPI?sort=last_added&mode=shop&page=1"
                 className="external"
                 target="_blank"
                 rel="noreferrer">
@@ -376,9 +376,9 @@ export default function Credits() {
             <hr className="mt-11 mb-10" />
             <h3>Unsplash</h3>
             <p className="mb-5">
-              To reach the collection of all images from Unsplash used in Sandbox, click{" "}
+              To reach the collection of all images from Unsplash used in OSPI, click{" "}
               <a
-                href="https://unsplash.com/collections/vn4OtMorwCA/sandbox"
+                href="https://unsplash.com/collections/vn4OtMorwCA/OSPI"
                 className="external"
                 target="_blank"
                 rel="noreferrer">
@@ -417,7 +417,7 @@ export default function Credits() {
             <p className="mb-5">
               To reach the Freepik collection first make sure you are logged into Freepik, then click{" "}
               <a
-                href="https://www.freepik.com/user/collections/sandbox/2260699"
+                href="https://www.freepik.com/user/collections/OSPI/2260699"
                 className="external"
                 target="_blank"
                 rel="noreferrer">
@@ -882,7 +882,7 @@ export default function Credits() {
       <section id="snippet-3" className="wrapper pt-16">
         <h2 className="mb-3">Icons</h2>
         <p className="lead mb-8">
-          To reach the collections of icons used in Sandbox, go to pages{" "}
+          To reach the collections of icons used in OSPI, go to pages{" "}
           <a href="../docs/styleguide/icons-svg.html" className="internal">
             SVG Icons
           </a>{" "}
@@ -949,7 +949,7 @@ export default function Credits() {
       <section id="snippet-4" className="wrapper pt-16">
         <h2 className="mb-3">Illustrations</h2>
         <p className="lead mb-8">
-          To reach the collections of illustrations used in Sandbox, click{" "}
+          To reach the collections of illustrations used in OSPI, click{" "}
           <a href="#" className="internal">
             here
           </a>

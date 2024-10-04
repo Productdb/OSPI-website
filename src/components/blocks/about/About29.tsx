@@ -15,7 +15,7 @@ export default function About29() {
         </h2>
 
         <p className="lead fs-lg">
-          I'm Julia Sandbox, a corporate brand designer based in New York City. I’m very passionate about the work that
+          I'm Julia OSPI, a corporate brand designer based in New York City. I’m very passionate about the work that
           I do.
         </p>
 

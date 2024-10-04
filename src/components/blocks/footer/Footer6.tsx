@@ -12,14 +12,14 @@ export default function Footer6() {
           <div className="col-md-4 col-lg-3">
             <div className="widget">
               <img
-                alt="Sandbox"
+                alt="OSPI"
                 className="mb-4"
                 src="/img/logo-light.png"
                 srcSet="/img/logo-light@2x.png 2x"
               />
 
               <p className="mb-4">
-                © 2022 Sandbox. <br className="d-none d-lg-block" />
+                © 2022 OSPI. <br className="d-none d-lg-block" />
                 All rights reserved.
               </p>
 

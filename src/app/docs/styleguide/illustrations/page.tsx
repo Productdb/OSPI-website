@@ -15,7 +15,7 @@ export default function Illustrations() {
       quickAccessLinks={quickAccess}
       descriptionClass="lead px-xxl-12"
       headingColClass="col-md-9 col-lg-7 col-xl-5 mx-auto"
-      description="Below you can find the list of illustrations that come bundled with Sandbox.">
+      description="Below you can find the list of illustrations that come bundled with OSPI.">
       <section id="snippet-1" className="wrapper pt-16">
         <h2 className="mb-5">Set 1</h2>
         <ul className="glyphs glyphs-svg row gy-6">

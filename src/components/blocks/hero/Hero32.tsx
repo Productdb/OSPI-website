@@ -11,7 +11,7 @@ export default function Hero32() {
             data-interval="-200"
             data-group="page-title"
             className="col-lg-10 col-xl-9 col-xxl-8 mx-auto">
-            <h2 className="h6 text-uppercase ls-xl text-white mb-5">Hello! We are Sandbox</h2>
+            <h2 className="h6 text-uppercase ls-xl text-white mb-5">Hello! We are OSPI</h2>
 
             <h1 className="display-1 fs-68 lh-xxs mb-8 text-white">
               We have considered our solutions to{" "}

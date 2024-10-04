@@ -11,9 +11,9 @@ export default function Services22() {
     <Fragment>
       <div className="row">
         <div className="col-md-10 offset-md-1 col-lg-8 offset-lg-2 mx-auto text-center">
-          <h2 className="fs-16 text-uppercase text-muted mb-3">Why Choose Sandbox?</h2>
+          <h2 className="fs-16 text-uppercase text-muted mb-3">Why Choose OSPI?</h2>
           <h3 className="display-3 mb-10 px-xl-10 px-xxl-15">
-            Here are a few <span className="underline-3 style-2 yellow">reasons</span> why our customers choose Sandbox.
+            Here are a few <span className="underline-3 style-2 yellow">reasons</span> why our customers choose OSPI.
           </h3>
         </div>
       </div>

@@ -10,7 +10,7 @@ export default function Backgrounds() {
     <DocLayout
       pageTitle="Backgrounds"
       quickAccessLinks={quickAccess}
-      description="Below you can find the list of abstract and gradient background images that come bundled with Sandbox.">
+      description="Below you can find the list of abstract and gradient background images that come bundled with OSPI.">
       <section id="snippet-1" className="wrapper pt-16">
         <h2 className="mb-5">Abstract</h2>
         <ul className="glyphs glyphs-svg row gy-6">

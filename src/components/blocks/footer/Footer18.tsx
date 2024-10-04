@@ -22,7 +22,7 @@ export default function Footer18() {
               <img className="mb-4" src="/img/logo-dark.png" srcSet="/img/logo-dark@2x.png 2x" alt="" />
 
               <p className="mb-4">
-                © 2022 Sandbox. <br className="d-none d-lg-block" />
+                © 2022 OSPI. <br className="d-none d-lg-block" />
                 All rights reserved.
               </p>
 

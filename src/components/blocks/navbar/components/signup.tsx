@@ -12,7 +12,7 @@ export default function Signup() {
               data-bs-dismiss="modal"
               aria-label="Close"
             />
-            <h2 className="mb-3 text-start">Sign up to Sandbox</h2>
+            <h2 className="mb-3 text-start">Sign up to OSPI</h2>
             <p className="lead mb-6 text-start">Registration takes less than a minute.</p>
             <RegisterForm />
           </div>

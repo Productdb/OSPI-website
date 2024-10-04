@@ -47,7 +47,7 @@ export default function Footer17() {
         <hr className="mt-13 mt-md-14 mb-7" />
 
         <div className="d-md-flex align-items-center justify-content-between">
-          <p className="mb-2 mb-lg-0">© 2022 Sandbox. All rights reserved.</p>
+          <p className="mb-2 mb-lg-0">© 2022 OSPI. All rights reserved.</p>
           <SocialLinks className="nav social social-muted mb-0 text-md-end" />
         </div>
       </div>

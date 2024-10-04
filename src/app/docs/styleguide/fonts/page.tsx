@@ -20,7 +20,7 @@ export default function Fonts() {
     <DocLayout
       pageTitle="Fonts"
       quickAccessLinks={quickAccess}
-      description="Use one of the existing font options or a custom font of your choice to change the overall font in Sandbox.">
+      description="Use one of the existing font options or a custom font of your choice to change the overall font in OSPI.">
       {/* ========== section 1 ========== */}
       <section id="snippet-1" className="wrapper pt-16">
         <h2 className="mb-5">Font Options</h2>
@@ -101,7 +101,7 @@ export default function Fonts() {
             </ul>
 
             {/* <p className="mb-0">
-              Manrope is the default font in Sandbox. If you wish to use one of the other available font options, add
+              Manrope is the default font in OSPI. If you wish to use one of the other available font options, add
               the link of the font CSS file you wish to use inside the template. This{' '}
               <a
                 href="https://www.youtube.com/watch?v=kQow-YDksXA"

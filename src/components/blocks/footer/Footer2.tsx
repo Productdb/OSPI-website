@@ -37,19 +37,19 @@ export default function Footer2() {
                 <div className="widget">
                   <h4 className="widget-title">E-mail</h4>
 
-                  <a href="mailto:sandbox@email.com" className="link-body">
-                    sandbox@email.com
+                  <a href="mailto:OSPI@email.com" className="link-body">
+                    OSPI@email.com
                   </a>
                   <br className="d-none d-md-block" />
 
-                  <a href="mailto:help@sandbox.com" className="link-body">
-                    help@sandbox.com
+                  <a href="mailto:help@OSPI.com" className="link-body">
+                    help@OSPI.com
                   </a>
                 </div>
               </div>
             </div>
 
-            <p>© 2022 Sandbox. All rights reserved.</p>
+            <p>© 2022 OSPI. All rights reserved.</p>
 
             <SocialLinks className="nav social justify-content-center" />
           </div>

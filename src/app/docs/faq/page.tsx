@@ -26,7 +26,7 @@ export default function FAQ() {
         </a>
 
         <a
-          href="https://themeforest.net/item/sandbox-modern-multipurpose-react-template/40486293/comments"
+          href="https://themeforest.net/item/OSPI-modern-multipurpose-react-template/40486293/comments"
           className="btn btn-soft-primary rounded-pill"
           target="_blank"
           rel="noreferrer">
@@ -87,7 +87,7 @@ export default function FAQ() {
                 data-bs-target="#faq-collapse-3"
                 aria-expanded="false"
                 aria-controls="faq-collapse-3">
-                Does Sandbox support RTL?
+                Does OSPI support RTL?
               </button>
             </div>
 
@@ -123,7 +123,7 @@ export default function FAQ() {
 
             <div id="faq-collapse-8" className="accordion-collapse collapse" aria-labelledby="faq-8">
               <div className="card-body">
-                <p>Sandbox is an nextjs template, not a Wordpress theme. So it cannot be installed in Wordpress.</p>
+                <p>OSPI is an nextjs template, not a Wordpress theme. So it cannot be installed in Wordpress.</p>
               </div>
             </div>
           </div>
@@ -199,14 +199,14 @@ export default function FAQ() {
                 aria-expanded="true"
                 aria-controls="faq-collapse-12">
                 {" "}
-                What font is used on the Sandbox logo?{" "}
+                What font is used on the OSPI logo?{" "}
               </button>
             </div>
 
             <div id="faq-collapse-12" className="accordion-collapse collapse" aria-labelledby="faq-12">
               <div className="card-body">
                 <p>
-                  The font used in the Sandbox logo is{" "}
+                  The font used in the OSPI logo is{" "}
                   <a
                     className="external my-0"
                     href="https://fonts.google.com/specimen/Manrope"

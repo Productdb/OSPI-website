@@ -192,7 +192,7 @@ export default function SvgIcons() {
     <DocLayout
       pageTitle="SVG Icons"
       quickAccessLinks={quickAccess}
-      description="Below you can find the list of all SVG icons included in Sandbox. Copy their codes easily with the copy buttons.">
+      description="Below you can find the list of all SVG icons included in OSPI. Copy their codes easily with the copy buttons.">
       {/* ========== section 1 ========== */}
       <section id="snippet-1" className="wrapper pt-16">
         <h2 className="display-5 mb-3">Lineal</h2>

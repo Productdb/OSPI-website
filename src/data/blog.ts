@@ -161,7 +161,7 @@ export const blogList5 = [
   {
     id: 1,
     comments: 3,
-    author: 'Sandbox',
+    author: 'OSPI',
     category: 'Places',
     createdAt: '8 Aug 2022',
     image: '/img/photos/tb1.jpg',
@@ -170,7 +170,7 @@ export const blogList5 = [
   {
     id: 2,
     comments: 5,
-    author: 'Sandbox',
+    author: 'OSPI',
     category: 'Restaurants',
     createdAt: '5 Jul 2022',
     image: '/img/photos/tb2.jpg',
@@ -179,7 +179,7 @@ export const blogList5 = [
   {
     id: 3,
     comments: 8,
-    author: 'Sandbox',
+    author: 'OSPI',
     category: 'Roadtrip',
     createdAt: '23 Jun 2022',
     image: '/img/photos/tb3.jpg',
@@ -188,7 +188,7 @@ export const blogList5 = [
   {
     id: 4,
     comments: 9,
-    author: 'Sandbox',
+    author: 'OSPI',
     category: 'Historic',
     createdAt: '15 Apr 2022',
     image: '/img/photos/tb4.jpg',
@@ -197,7 +197,7 @@ export const blogList5 = [
   {
     id: 5,
     comments: 11,
-    author: 'Sandbox',
+    author: 'OSPI',
     category: 'Nature',
     createdAt: '14 Feb 2022',
     image: '/img/photos/tb5.jpg',
@@ -206,7 +206,7 @@ export const blogList5 = [
   {
     id: 6,
     comments: 8,
-    author: 'Sandbox',
+    author: 'OSPI',
     category: 'Architecture',
     createdAt: '22 Jan 2022',
     image: '/img/photos/tb6.jpg',
@@ -215,7 +215,7 @@ export const blogList5 = [
   {
     id: 7,
     comments: 14,
-    author: 'Sandbox',
+    author: 'OSPI',
     category: 'Nature',
     createdAt: '2 Jan 2022',
     image: '/img/photos/tb7.jpg',

@@ -17,7 +17,7 @@ export default function Hero22() {
           <div className="row">
             <div className="col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto">
               <h2 className="h6 text-uppercase ls-xl text-white mb-5" style={zoomInAnimate("500ms")}>
-                Hello! We are Sandbox
+                Hello! We are OSPI
               </h2>
 
               <h3 className="display-1 fs-54 text-white mb-7" style={zoomInAnimate("1000ms")}>

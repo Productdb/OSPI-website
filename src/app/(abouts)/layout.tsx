@@ -17,8 +17,7 @@ export default function AboutLayout({ children }: PropsWithChildren) {
       <header
         className={clsx({
           wrapper: true,
-          "bg-gray": pathname === "/about-1",
-          "bg-soft-primary": pathname === "/about-2"
+          "bg-gray": pathname === "/about"
         })}>
         <Navbar
           language

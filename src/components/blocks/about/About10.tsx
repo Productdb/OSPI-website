@@ -21,7 +21,7 @@ export default function About10() {
       </div>
 
       <div className="col-lg-5 col-xl-4 offset-lg-1">
-        <h3 className="display-4 mb-3">Sandbox Brings Awesomeness</h3>
+        <h3 className="display-4 mb-3">OSPI Brings Awesomeness</h3>
         <p className="lead fs-lg mb-6">
           We have considered our solutions to <span className="underline">support every stage</span> of your growth.
         </p>

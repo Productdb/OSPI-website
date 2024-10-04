@@ -19,7 +19,7 @@ export default function About25() {
             <div className="col-lg-6">
               <h2 className="display-5 mb-3">About Me</h2>
               <p className="lead fs-lg">
-                I'm Caitlyn Sandbox, a photographer specializing in food, drink and product photography.
+                I'm Caitlyn OSPI, a photographer specializing in food, drink and product photography.
               </p>
               <p>
                 Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce

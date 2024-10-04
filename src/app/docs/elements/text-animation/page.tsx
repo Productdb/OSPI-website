@@ -42,7 +42,7 @@ export default function TextAnimations() {
             <div className="row">
               <div className="col-md-9">
                 <h2 className="display-1 mb-0">
-                  Sandbox is effortless and powerful with <br />
+                  OSPI is effortless and powerful with <br />
                   <span className="typer text-primary">
                     <Typewriter
                       options={{
@@ -85,7 +85,7 @@ export default function TextAnimations() {
             <div className="row">
               <div className="col-md-9">
                 <h2 className="display-1 mb-0">
-                  Sandbox is effortless and powerful with{" "}
+                  OSPI is effortless and powerful with{" "}
                   <span className="rotator-fade text-primary">easy usage,fast transactions,secure payments</span>
                 </h2>
               </div>

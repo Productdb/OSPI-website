@@ -21,11 +21,11 @@ export default function About30() {
             alt=""
           />
 
-          <h2 className="fs-16 text-uppercase text-muted mb-3 text-center">Why Choose Sandbox?</h2>
+          <h2 className="fs-16 text-uppercase text-muted mb-3 text-center">Why Choose OSPI?</h2>
 
           <h3 className="display-3 mb-12 text-center">
             Here are a few <span className="text-gradient gradient-7">reasons why</span> our customers choose the
-            Sandbox app.
+            OSPI app.
           </h3>
         </div>
       </div>

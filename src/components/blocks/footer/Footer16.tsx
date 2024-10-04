@@ -152,7 +152,7 @@ export default function Footer16() {
           </div>
         </div>
 
-        <p className="mt-6 mb-0 text-center">© 2022 Sandbox. All rights reserved.</p>
+        <p className="mt-6 mb-0 text-center">© 2022 OSPI. All rights reserved.</p>
       </div>
     </footer>
   );

@@ -19,7 +19,7 @@ export default function Banner1() {
             </h1>
 
             <p className="lead fs-lg mb-7 px-md-10 px-lg-0 pe-xxl-15">
-              Sandbox is now available to download from both the App Store and Google Play Store.
+              OSPI is now available to download from both the App Store and Google Play Store.
             </p>
 
             <GoogleAppBtn />

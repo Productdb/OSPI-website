@@ -29,9 +29,9 @@ export default function Demo34() {
         <div className="container">
           <div className="alert-inner d-flex justify-content-center align-items-center p-0">
             <p className="mb-0">
-              HTML version of Sandbox is released! Grab a copy{" "}
+              HTML version of OSPI is released! Grab a copy{" "}
               <a
-                href="https://sandbox.elemisthemes.com"
+                href="https://OSPI.elemisthemes.com"
                 className="link-white hover d-inline-flex align-items-center"
                 target="_blank">
                 here <i className="uil uil-arrow-up-right" />
@@ -248,7 +248,7 @@ export default function Demo34() {
                   <div>
                     <h4 className="mb-1">Cool Features & Elements</h4>
                     <p className="mb-0">
-                      Sandbox includes amazing features and elements to create rich and attractive pages.
+                      OSPI includes amazing features and elements to create rich and attractive pages.
                     </p>
                   </div>
                 </div>
@@ -342,7 +342,7 @@ export default function Demo34() {
                   <div>
                     <h4 className="mb-1">Fully Responsive Layout</h4>
                     <p className="mb-0">
-                      Sandbox adapts to different screen sizes therefore it is compatible with any device.
+                      OSPI adapts to different screen sizes therefore it is compatible with any device.
                     </p>
                   </div>
                 </div>
@@ -547,7 +547,7 @@ export default function Demo34() {
                   <h2 className="fs-15 ls-xl text-uppercase text-muted mb-3">Fully Responsive</h2>
                   <h3 className="display-3 mb-5">Responsive images & texts no matter the screen size.</h3>
                   <p className="lead mb-8">
-                    Sandbox is responsive so the layout will adapt to different screen sizes that will make your website
+                    OSPI is responsive so the layout will adapt to different screen sizes that will make your website
                     compatible with any device such as smart phones, tablets and computers.
                   </p>
 
@@ -570,7 +570,7 @@ export default function Demo34() {
               <div className="col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
                 <img src="/img/demos/icon.png" srcSet="/img/demos/icon@2x.png 2x" alt="" />
                 <h2 className="display-3 mt-3 mb-3 px-lg-8">
-                  Think unique and be creative. Make a difference with Sandbox.
+                  Think unique and be creative. Make a difference with OSPI.
                 </h2>
 
                 <p className="lead fs-lg mb-6">
@@ -582,7 +582,7 @@ export default function Demo34() {
                   target="_blank"
                   className="btn btn-lg btn-primary rounded-pill mb-10"
                   rel="noreferrer">
-                  Buy Sandbox
+                  Buy OSPI
                 </a>
               </div>
             </div>

@@ -38,8 +38,8 @@ export default function Topbar({ bgColor, textColor }: TopbarProps) {
           </div>
 
           <p className="mb-0">
-            <a href="mailto:sandbox@email.com" className="link-white hover">
-              sandbox@email.com
+            <a href="mailto:OSPI@email.com" className="link-white hover">
+              OSPI@email.com
             </a>
           </p>
         </div>

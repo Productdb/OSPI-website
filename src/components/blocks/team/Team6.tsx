@@ -10,7 +10,7 @@ export default function Team6() {
         <div className="col-md-10 col-lg-12 col-xl-10 col-xxl-9 mx-auto text-center">
           <h2 className="fs-15 text-uppercase text-primary mb-3">Our Team</h2>
           <h3 className="display-4 mb-7 px-lg-19 px-xl-18">
-            Think unique and be innovative. Make a difference with Sandbox.
+            Think unique and be innovative. Make a difference with OSPI.
           </h3>
         </div>
       </div>

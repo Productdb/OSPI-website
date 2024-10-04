@@ -10,7 +10,7 @@ export default function Facts21() {
           <div className="col-md-11 col-lg-10 col-xl-8 col-xxl-7 mx-auto">
             <img src="/img/demos/icon.png" srcSet="/img/demos/icon@2x.png 2x" alt="" />
             <h2 className="display-3 mt-3 mb-3 mb-0 px-lg-10 px-xl-0">
-              Save your time and money by choosing Sandbox for your website.
+              Save your time and money by choosing OSPI for your website.
             </h2>
           </div>
         </div>

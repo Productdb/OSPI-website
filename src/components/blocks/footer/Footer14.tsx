@@ -28,7 +28,7 @@ export default function Footer14() {
                 <Image alt="logo" width={134} height={26} src="/img/logo-light.png" />
 
                 <p className="my-4">
-                  © 2022 Sandbox. <br className="d-none d-lg-block" />
+                  © 2022 OSPI. <br className="d-none d-lg-block" />
                   All rights reserved.
                 </p>
 

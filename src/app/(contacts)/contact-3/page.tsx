@@ -92,13 +92,13 @@ export default function ContactThree() {
                       <div>
                         <h5 className="mb-1">E-mail</h5>
                         <p className="mb-0">
-                          <a href="mailto:sandbox@email.com" className="link-body">
-                            sandbox@email.com
+                          <a href="mailto:OSPI@email.com" className="link-body">
+                            OSPI@email.com
                           </a>
                         </p>
                         <p>
-                          <a href="mailto:help@sandbox.com" className="link-body">
-                            help@sandbox.com
+                          <a href="mailto:help@OSPI.com" className="link-body">
+                            help@OSPI.com
                           </a>
                         </p>
                       </div>

@@ -51,8 +51,8 @@ export default function Contact7() {
               <div>
                 <h5 className="mb-1">E-mail</h5>
                 <p className="mb-0">
-                  <a href="mailto:sandbox@email.com" className="link-body">
-                    sandbox@email.com
+                  <a href="mailto:OSPI@email.com" className="link-body">
+                    OSPI@email.com
                   </a>
                 </p>
               </div>
