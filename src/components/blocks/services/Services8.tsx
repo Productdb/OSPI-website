@@ -1,5 +1,5 @@
 import { Tiles4 } from "components/elements/tiles";
-import IconBox from "components/reuseable/IconBox";
+import IconTextBox from "components/reuseable/IconTextBox";
 import { ServiceCard3 } from "components/reuseable/service-cards";
 // CUSTOM DATA
 import { serviceList2 } from "data/service";
