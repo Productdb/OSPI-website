@@ -42,36 +42,21 @@ const pages = [
     id: 21,
     title: "Services",
     children: [
-      { id: 211, title: "Services I", url: "/services-1" },
-      { id: 212, title: "Services II", url: "/services-2" }
+      { id: 211, title: "Services I", url: "/services" }
     ]
   },
   {
     id: 22,
     title: "About",
     children: [
-      { id: 221, title: "About I", url: "/about-1" },
-      { id: 222, title: "About II", url: "/about-2" }
-    ]
-  },
-  {
-    id: 23,
-    title: "Shop",
-    children: [
-      { id: 231, title: "Shop I", url: "/shop-1" },
-      { id: 232, title: "Shop II", url: "/shop-2" },
-      { id: 233, title: "Product Page", url: "/products/1" },
-      { id: 234, title: "Shopping Cart", url: "/cart" },
-      { id: 235, title: "Checkout", url: "/checkout" }
+      { id: 221, title: "About", url: "/about" }
     ]
   },
   {
     id: 24,
     title: "Contact",
     children: [
-      { id: 241, title: "Contact I", url: "/contact-1" },
-      { id: 242, title: "Contact II", url: "/contact-2" },
-      { id: 243, title: "Contact III", url: "/contact-3" }
+      { id: 243, title: "Contact III", url: "/contact" }
     ]
   },
   {
