@@ -3860,6 +3860,9 @@ textarea.form-control-lg {
   background-color: var(--bs-success);
   border-radius: 0.4rem;
 }
+.IconTextBox {
+  font-size: 0.5rem;
+}
 
 .was-validated :valid ~ .valid-feedback,
 .was-validated :valid ~ .valid-tooltip,
