@@ -38,23 +38,23 @@ export const processList1 = [
 export const processList2 = [
   {
     no: "01",
-    title: "Concept",
-    subtitle: "Nulla vitae elit libero elit non porta gravida eget metus cras. Aenean eu leo quam. Pellentesque ornare."
+    title: "Conceptualization",
+    subtitle: "OSPI was developed as an open standard to simplify product identification across industries, offering a flexible alternative to traditional methods like barcodes."
   },
   {
     no: "02",
-    title: "Prepare",
-    subtitle: "Vestibulum id ligula porta felis euismod semper. Sed posuere consectetur est at lobortis."
+    title: "Design",
+    subtitle: "The OSPI code format is meticulously crafted to ensure uniqueness, accuracy, and scalability, allowing for seamless integration into any system or product line."
   },
   {
     no: "03",
-    title: "Retouch",
-    subtitle: "Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nulla vitae elit libero."
+    title: "Standardization",
+    subtitle: "Every element of the OSPI structure, from company identification to product variations, is standardized, ensuring consistency and clarity across industries and platforms."
   },
   {
     no: "04",
-    title: "Finalize",
-    subtitle: "Integer posuere erat, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo."
+    title: "Innovate",
+    subtitle: "We continuously refine and evolve the OSPI standard to stay at the forefront of global product identification, ensuring its relevance and usability in an ever-changing market."
   }
 ];
 

@@ -7,7 +7,7 @@ export default function Process6() {
     <Fragment>
       <h2 className="display-4 mb-3">How We Do It?</h2>
       <p className="lead fs-lg mb-8">
-        We make your spending <span className="underline">stress-free</span> for you to have the perfect control.
+      we have designed a <span className="underline">clear and efficient structure </span>for product identification that meets the highest standards of global interoperability:
       </p>
 
       <div className="row gx-lg-8 gx-xl-12 gy-6 process-wrapper line">
