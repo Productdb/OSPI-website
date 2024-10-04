@@ -31660,7 +31660,14 @@ button:focus {
   padding-top: 0.3rem;
   padding-bottom: 0.3rem;
 }
+.btn-icon.btn-xl, .btn-group-xl > .btn-icon.btn {
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem;
+}
 .btn-icon.btn-sm i, .btn-group-sm > .btn-icon.btn i {
+  font-size: 0.8rem;
+}
+.btn-icon.btn-xl i, .btn-group-xl > .btn-icon.btn i {
   font-size: 0.8rem;
 }
 .btn-icon.btn-icon-start i {
