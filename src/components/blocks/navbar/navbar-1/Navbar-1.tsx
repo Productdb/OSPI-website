@@ -77,12 +77,12 @@ export default function NavbarOne({
         <div className="offcanvas-body ms-lg-auto d-flex flex-column h-100">
           <ul className="navbar-nav">
             {/* ===================== demos nav item ===================== */}
-            <DemosNavItem />
+            <NextLink href="/" title="Home" className="nav-link"/>
 
             {/*  ===================== pages nav item  ===================== */}
             <PagesNavItem />
             {/*  ===================== about nav item  ===================== */}
-            <NextLink href="/about" title="about" />
+            <NextLink href="/about" title="About" className="nav-link"/>
 
             {/* ===================== projects nav item  ===================== */}
             <ProjectsNavItem />
