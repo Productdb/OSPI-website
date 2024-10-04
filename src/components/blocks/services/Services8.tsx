@@ -1,5 +1,5 @@
 import { Tiles4 } from "components/elements/tiles";
-import IconTextBox from "components/reuseable/IconTextBox";
+import IconBox from "components/reuseable/IconBox";
 import { ServiceCard3 } from "components/reuseable/service-cards";
 // CUSTOM DATA
 import { serviceList2 } from "data/service";
@@ -14,8 +14,7 @@ export default function Services8() {
       <div className="col-lg-6">
         <h2 className="display-4 mb-3">What We Do?</h2>
         <p className="lead fs-lg mb-8 pe-xxl-2">
-          The full service we are offering is <span className="underline">specifically</span> designed to meet your
-          business needs and projects.
+        Our services are <span className="underline">specifically designed to meet the unique needs </span> of your business and assist in implementing these open standards for product identification:
         </p>
 
         <div className="row gx-xl-10 gy-6">
@@ -24,7 +23,7 @@ export default function Services8() {
               <ServiceCard3
                 title={title}
                 description={description}
-                Icon={<IconTextBox icon={icon} className="icon btn btn-circlexl btn-xl btn-soft-primary pe-none me-5" />}
+                Icon={<IconBox icon={icon} className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-5" />}
               />
             </div>
           ))}
