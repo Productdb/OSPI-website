@@ -55,6 +55,23 @@ export default function ContactThree() {
                   </div>
 
                   {/* ========== contact info section ========== */}
+                  <div className="col-lg-4">
+                    <div className="d-flex flex-row">
+                      <div>
+                        <div className="icon text-primary fs-28 me-4 mt-n1">
+                          <i className="uil uil-envelope" />
+                        </div>
+                      </div>
+                      <div>
+                        <h5 className="mb-1">E-mail</h5>
+                        <p className="mb-0">
+                          <a href="mailto:contact@ospi-standard.org" className="link-body">
+                            contact@ospi-standard.org
+                          </a>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
