@@ -90,9 +90,6 @@ export default function NavbarOne({
             {/* ===================== blog nav item ===================== */}
             <BlogNavItem />
 
-            {/* ===================== blocks nav item ===================== */}
-            <BlocksNavItem />
-
             {/* ===================== documentation nav item ===================== */}
             <DocumentationNavItem />
           </ul>
