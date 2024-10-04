@@ -7,7 +7,7 @@ type IconTextBoxProps = {
 };
 // ====================================================
 
-export default function IconBox({ icon, className }: IconBoxProps) {
+export default function IconBox({ icon, className }: IconTextBoxProps) {
   return (
     <div className={className}>
       <p> ${icon}</p>
