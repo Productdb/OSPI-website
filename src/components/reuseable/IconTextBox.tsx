@@ -10,7 +10,7 @@ type IconTextBoxProps = {
 export default function IconBox({ icon, className }: IconTextBoxProps) {
   return (
     <div className={className}>
-      <p className="IconTextBox">{icon}</p>
+      <p className="fs-10">{icon}</p>
     </div>
   );
 }
