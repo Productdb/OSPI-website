@@ -76,7 +76,7 @@ export const serviceList2 = [
     id: 1,
     linkUrl: '#',
     title: 'OSPI:',
-    icon: 'uil-phone-volume',
+    icon: 'OSPI',
     description: `This prefix indicates that the code is part of the OSPI system, ensuring recognition within the industry. It is optional and can be used for interoperability between different systems.`
   },
   {

@@ -24,7 +24,7 @@ export default function Services8() {
               <ServiceCard3
                 title={title}
                 description="Nulla vitae elit libero pharetra augue dapibus."
-                Icon={<IconBox icon={icon} className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-5" />}
+                Icon={<IconTextBox icon={icon} className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-5" />}
               />
             </div>
           ))}
