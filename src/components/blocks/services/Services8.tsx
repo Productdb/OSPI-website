@@ -19,11 +19,11 @@ export default function Services8() {
         </p>
 
         <div className="row gx-xl-10 gy-6">
-          {serviceList2.map(({ title, id, icon }) => (
+          {serviceList2.map(({ title, id, description, icon }) => (
             <div className="col-md-6 col-lg-12 col-xl-6" key={id}>
               <ServiceCard3
                 title={title}
-                description="Nulla vitae elit libero pharetra augue dapibus."
+                description={description}
                 Icon={<IconTextBox icon={icon} className="icon btn btn-circle btn-lg btn-soft-primary pe-none me-5" />}
               />
             </div>
