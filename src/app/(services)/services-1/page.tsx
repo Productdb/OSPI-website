@@ -17,8 +17,7 @@ export default function Services() {
             <div className="col-md-8 col-lg-7 col-xl-6 col-xxl-5 mx-auto mb-11">
               <h1 className="display-1 mb-3">Our Services</h1>
               <p className="lead px-lg-7 px-xl-7 px-xxl-6">
-                We are a creative company that focuses on establishing
-                <span className="underline">long-term relationships</span> with customers.
+              At Open Standard Product Identification (OSPI), we are committed to enhancing product identification by providing a standardized system. Our focus is on building long-term relationships with our customers by delivering innovative solutions that meet their needs.
               </p>
             </div>
           </div>
