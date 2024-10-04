@@ -32,7 +32,7 @@ export default function Services() {
               <figure className="rounded">
                 <img src="/img/photos/about5.jpg" srcSet="/img/photos/about5@2x.jpg 2x" alt="" />
               </figure>
-              <Facts3 />
+              {/*<Facts3 />*/}
             </div>
           </div>
 
