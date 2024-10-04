@@ -30237,6 +30237,9 @@ form.dark-fields .form-control:focus {
   .btn.btn-circle.btn-lg, .btn-group-lg > .btn.btn-circle {
     font-size: 1.3rem;
   }
+  .btn.btn-circle.btn-xl, .btn-group-xl > .btn.btn-circle {
+    font-size: 1.3rem;
+  }
 }
 .btn.btn-circle.btn-play {
   width: 3.5rem;
