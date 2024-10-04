@@ -1,7 +1,7 @@
 const markup1 = `import Navbar  from 'components/blocks/navbar/navbar-1';
 import NextLink from 'components/reuseable/links/NextLink';
 
-<Navbar language button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded" />} />
+<Navbar language button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded" />} />
 `;
 
 const markup2 = `import Navbar  from 'components/blocks/navbar/navbar-1';
@@ -11,7 +11,7 @@ import NextLink from 'components/reuseable/links/NextLink';
   language
   logoAlt="logo-light"
   navClassName="navbar navbar-expand-lg center-nav transparent navbar-dark"
-  button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded" />}
+  button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded" />}
 />
 `;
 
@@ -21,7 +21,7 @@ import NextLink from 'components/reuseable/links/NextLink';
 <Navbar
   language
   navClassName="navbar navbar-expand-lg center-nav navbar-light navbar-bg-light"
-  button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded" />}
+  button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded" />}
 />
 `;
 
@@ -32,7 +32,7 @@ import NextLink from 'components/reuseable/links/NextLink';
   language
   logoAlt="logo-light"
   navClassName="navbar navbar-expand-lg center-nav navbar-dark navbar-bg-dark"
-  button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded" />}
+  button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded" />}
 />
 `;
 
@@ -44,7 +44,7 @@ import NextLink from 'components/reuseable/links/NextLink';
   language
   logoAlt="logo-purple"
   navClassName="navbar navbar-expand-lg fancy navbar-light navbar-bg-light caret-none"
-  button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded" />}
+  button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded" />}
 />
 `;
 

@@ -10,7 +10,7 @@ export default function BlogDetailsOne() {
     <Fragment>
       {/* ========== header section ========== */}
       <header className="wrapper bg-soft-primary">
-        <Navbar search button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded-pill" />} />
+        <Navbar search button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded-pill" />} />
       </header>
 
       <main className="content-wrapper">

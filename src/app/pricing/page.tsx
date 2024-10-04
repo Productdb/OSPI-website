@@ -21,7 +21,7 @@ export default function Pricing() {
       <header className="wrapper bg-soft-primary">
         <Navbar
           language
-          button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded-pill" />}
+          button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded-pill" />}
         />
       </header>
 

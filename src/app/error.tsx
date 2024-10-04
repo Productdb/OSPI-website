@@ -22,7 +22,7 @@ export default function NotFound({ error, reset }: Props) {
         <Navbar
           language
           button={
-            <NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded-pill" />
+            <NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded-pill" />
           }
         />
       </header>

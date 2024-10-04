@@ -19,12 +19,12 @@ export default function ServiceLayout({ children }: PropsWithChildren) {
             language
             logoAlt="logo-light"
             navClassName="navbar navbar-expand-lg center-nav transparent position-absolute navbar-dark"
-            button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded-pill" />}
+            button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded-pill" />}
           />
         ) : (
           <Navbar
             language
-            button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded-pill" />}
+            button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded-pill" />}
           />
         )}
       </header>

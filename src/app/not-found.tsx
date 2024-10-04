@@ -14,7 +14,7 @@ export default function NotFound() {
       <header className="wrapper bg-light">
         <Navbar
           language
-          button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded-pill" />}
+          button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded-pill" />}
         />
       </header>
 

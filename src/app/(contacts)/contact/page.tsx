@@ -16,7 +16,7 @@ export default function ContactThree() {
           stickyBox={false}
           logoAlt="logo-light"
           navClassName="navbar navbar-expand-lg center-nav transparent position-absolute navbar-dark"
-          button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded-pill" />}
+          button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded-pill" />}
         />
       </header>
 

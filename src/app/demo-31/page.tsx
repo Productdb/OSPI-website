@@ -24,7 +24,7 @@ export default function Demo31() {
         <Navbar
           language
           logoAlt="logo"
-          button={<NextLink title="Contact" href="#" className="btn btn-sm btn-primary rounded" />}
+          button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-primary rounded" />}
         />
       </header>
 

@@ -16,7 +16,7 @@ export default function BlogDetailsThree() {
           stickyBox={false}
           logoAlt="logo-light"
           navClassName="navbar navbar-expand-lg center-nav transparent position-absolute navbar-dark"
-          button={<NextLink title="Contact" href="#" className="btn btn-sm btn-white rounded-pill" />}
+          button={<NextLink title="Contact" href="/contact" className="btn btn-sm btn-white rounded-pill" />}
         />
       </header>
 
