@@ -1,4 +1,12 @@
 import { Fragment } from "react";
+import { 
+    UilCheckCircle, 
+    UilGlobe, 
+    UilCodeBranch, 
+    UilServerNetwork, 
+    UilPlusCircle, 
+    UilPrint 
+  } from '@iconscout/react-unicons';  
 
 
 export default function Services() {
