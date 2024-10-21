@@ -12,7 +12,7 @@ export default function Services() {
           The Open Standard Product Identification (OSPI) protocol provides businesses with a free, global system to create, use, 
           and manage unique product identifiers without licensing fees or restrictions.
         </p>
-        <a href="/documentation" className="btn btn-gradient btn-lg">Explore Documentation</a>
+        <a href="/docs" className="btn btn-gradient btn-lg">Explore Documentation</a>
       </section>
 
       {/* Overview Section */}
@@ -176,7 +176,7 @@ export default function Services() {
             </div>
           </div>
           <div className="text-center mt-5">
-            <a href="/api-docs" className="btn btn-lg btn-gradient">Access API Documentation</a>
+            <a href="/docs" className="btn btn-lg btn-gradient">Access API Documentation</a>
           </div>
         </div>
       </section>
