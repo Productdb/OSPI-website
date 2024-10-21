@@ -6,7 +6,7 @@ import {
     UilServerNetwork, 
     UilPlusCircle, 
     UilPrint 
-  } from '@iconscout/react-unicons';  
+  } from '@iconscout/react-unicons';
 
 
 export default function Services() {
