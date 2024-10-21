@@ -78,7 +78,8 @@ export default function NavbarOne({
           <ul className="navbar-nav">
             {/* ===================== demos nav item ===================== */}
             <NextLink href="/" title="Home" className="nav-link"/>
-
+            {/* ===================== standards nav item ===================== */}
+            <NextLink href="/ospi" title="Standards" className="nav-link"/>
             {/*  ===================== pages nav item  ===================== */}
             <PagesNavItem />
             {/*  ===================== about nav item  ===================== */}
