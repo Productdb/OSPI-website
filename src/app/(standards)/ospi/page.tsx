@@ -18,7 +18,7 @@ export default function Services() {
         <h1 className="display-4 text-gradient gradient-1 mb-4">OSPI Protocol: A Free and Open Standard for Product Identification</h1>
         <p className="lead text-muted mb-4">
           The Open Standard Product Identification (OSPI) protocol provides businesses with a free, global system to create, use, 
-          and manage unique product identifiers without licensing fees or restrictions.
+          and manage unique product identifiers without licensing fees or restrictions
         </p>
         <a href="/docs" className="btn btn-gradient btn-lg">Explore Documentation</a>
       </section>
