@@ -85,9 +85,6 @@ export default function NavbarOne({
             {/*  ===================== about nav item  ===================== */}
             <NextLink href="/about" title="About" className="nav-link"/>
 
-            {/* ===================== projects nav item  ===================== */}
-            <ProjectsNavItem />
-
             {/* ===================== blog nav item ===================== */}
             <BlogNavItem />
 
