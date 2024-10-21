@@ -6,116 +6,92 @@ import { faCheckCircle, faPrint, faPlusCircle, faServer, faGlobe, faShieldAlt } 
 export default function Services() {
   return (
     <Fragment>
-                    {/* Hero Section */}
-      <section className="hero text-center py-5 position-relative">
-        <div className="hero-bg" style={{ backgroundImage: 'url("/images/hero-bg.svg")', backgroundSize: 'cover' }} />
-        <h1 className="display-4 text-gradient gradient-1 mb-4">OSPI Protocol: A Free and Open Standard for Product Identification</h1>
-        <p className="lead text-muted mb-4">
-          The Open Standard Product Identification (OSPI) protocol provides businesses with a free, global system to create, use, 
-          and manage unique product identifiers without licensing fees or restrictions.
-        </p>
-        <a href="/documentation" className="btn btn-gradient btn-lg">Explore Documentation</a>
+                          {/* Hero Section */}
+      <section className="hero-section position-relative d-flex align-items-center justify-content-center text-center bg-gradient py-5" style={{ height: '100vh', background: 'linear-gradient(135deg, #1c92d2 0%, #f2fcfe 100%)', color: '#fff' }}>
+        <div className="container">
+          <h1 className="display-4 font-weight-bold animate__animated animate__fadeInDown mb-4">The Future of Product Identification</h1>
+          <p className="lead mb-4 animate__animated animate__fadeInUp">Free, open, and global product identification with OSPI. Say goodbye to fees and restrictions.</p>
+          <a href="/documentation" className="btn btn-lg btn-gradient shadow animate__animated animate__fadeInUp">Explore Documentation</a>
+        </div>
+        <div className="hero-bg-overlay" style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', backgroundImage: 'url(/images/hero-bg.svg)', opacity: 0.2 }}></div>
       </section>
 
       {/* Overview Section */}
-      <section className="overview py-5">
-        <div className="container text-center">
-          <h2 className="mb-4 display-5">What is the OSPI Protocol?</h2>
-          <p className="text-muted">
-            OSPI (Open Standard Product Identification) is an open-source, free-to-use protocol that enables businesses to generate unique product 
-            identifiers without needing to register with a central authority. Unlike traditional systems like GTIN, OSPI allows complete flexibility 
-            and control over product identification, making it easier for businesses of all sizes to operate globally without the burden of licensing fees.
-          </p>
+      <section className="overview py-5 text-center bg-light">
+        <div className="container">
+          <h2 className="display-5 mb-4">What is OSPI?</h2>
+          <p className="lead text-muted mb-5">OSPI (Open Standard Product Identification) is an open-source, free-to-use protocol that provides businesses a flexible, license-free way to generate product identifiers globally.</p>
         </div>
       </section>
 
-      {/* How OSPI Works Section with Font Awesome Icons */}
-      <section className="how-it-works bg-gradient py-5 text-white position-relative">
+      {/* How OSPI Works Section */}
+      <section className="how-it-works py-5 text-white position-relative" style={{ background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)' }}>
         <div className="container">
-          <h2 className="mb-4 text-center display-5">How the OSPI Protocol Works</h2>
+          <h2 className="text-center display-5 mb-5">How OSPI Works</h2>
           <div className="row">
             <div className="col-md-6 mb-4">
-              <div className="card card-body bg-transparent border-light shadow-sm text-center">
-                <h4 className="mb-3">
-                  <FontAwesomeIcon icon={faPlusCircle} className="text-gradient gradient-2 me-2" />
-                  Generate Your OSPI Code
-                </h4>
-                <p>
-                  Businesses can generate a unique OSPI code using the OSPI Code Generator. This code serves as the unique identifier for each product.
-                </p>
+              <div className="card card-body bg-transparent border-light shadow-lg text-center p-4 animate__animated animate__zoomIn" style={{ transition: '0.3s', cursor: 'pointer' }}>
+                <FontAwesomeIcon icon={faPlusCircle} size="3x" className="mb-3 text-gradient gradient-2" />
+                <h4>Generate Your OSPI Code</h4>
+                <p>Generate unique OSPI codes for each product with our free code generator, giving you complete control without licensing restrictions.</p>
               </div>
             </div>
             <div className="col-md-6 mb-4">
-              <div className="card card-body bg-transparent border-light shadow-sm text-center">
-                <h4 className="mb-3">
-                  <FontAwesomeIcon icon={faPrint} className="text-gradient gradient-3 me-2" />
-                  Integrate the Code
-                </h4>
-                <p>
-                  Once generated, the OSPI code can be printed as a barcode, embedded in digital product catalogs, or integrated into inventory management systems.
-                </p>
+              <div className="card card-body bg-transparent border-light shadow-lg text-center p-4 animate__animated animate__zoomIn animate__delay-1s" style={{ transition: '0.3s', cursor: 'pointer' }}>
+                <FontAwesomeIcon icon={faPrint} size="3x" className="mb-3 text-gradient gradient-3" />
+                <h4>Integrate the Code</h4>
+                <p>Embed OSPI codes into barcodes or digital systems for seamless integration into global supply chains.</p>
               </div>
             </div>
             <div className="col-md-6 mb-4">
-              <div className="card card-body bg-transparent border-light shadow-sm text-center">
-                <h4 className="mb-3">
-                  <FontAwesomeIcon icon={faGlobe} className="text-gradient gradient-4 me-2" />
-                  Global Recognition
-                </h4>
-                <p>
-                  The OSPI protocol is compatible with global supply chains and can be recognized by any system that supports barcode technology.
-                </p>
+              <div className="card card-body bg-transparent border-light shadow-lg text-center p-4 animate__animated animate__zoomIn animate__delay-2s" style={{ transition: '0.3s', cursor: 'pointer' }}>
+                <FontAwesomeIcon icon={faGlobe} size="3x" className="mb-3 text-gradient gradient-4" />
+                <h4>Global Recognition</h4>
+                <p>OSPI codes are universally recognized across supply chains, supporting international trade and logistics systems.</p>
               </div>
             </div>
             <div className="col-md-6 mb-4">
-              <div className="card card-body bg-transparent border-light shadow-sm text-center">
-                <h4 className="mb-3">
-                  <FontAwesomeIcon icon={faShieldAlt} className="text-gradient gradient-1 me-2" />
-                  No Centralized Fees or Registration
-                </h4>
-                <p>
-                  OSPI is free. No need to pay fees or register with a central body. The protocol is entirely open and accessible.
-                </p>
+              <div className="card card-body bg-transparent border-light shadow-lg text-center p-4 animate__animated animate__zoomIn animate__delay-3s" style={{ transition: '0.3s', cursor: 'pointer' }}>
+                <FontAwesomeIcon icon={faShieldAlt} size="3x" className="mb-3 text-gradient gradient-1" />
+                <h4>No Fees, No Registration</h4>
+                <p>OSPI offers a free, decentralized product identification system with no central authority, allowing businesses to operate freely.</p>
               </div>
             </div>
-          </div>
-          <div className="text-center mt-4">
-            <a href="/get-started" className="btn btn-lg btn-outline-light">Get Started with OSPI</a>
           </div>
         </div>
       </section>
 
-      {/* Benefits Section with Font Awesome Icons */}
-      <section className="benefits py-5 bg-light">
+      {/* Benefits Section */}
+      <section className="benefits-section py-5 text-center bg-light">
         <div className="container">
-          <h2 className="mb-4 text-center display-5">Benefits of Using OSPI</h2>
+          <h2 className="display-5 mb-5">Benefits of OSPI</h2>
           <div className="row">
-            <div className="col-md-6 col-lg-3 mb-4">
-              <div className="card card-body border-0 shadow-sm text-center">
-                <FontAwesomeIcon icon={faCheckCircle} className="fs-2 text-gradient gradient-1 mb-3" />
+            <div className="col-md-3 mb-4">
+              <div className="card card-body border-0 shadow text-center h-100 p-4">
+                <FontAwesomeIcon icon={faCheckCircle} size="2x" className="text-gradient gradient-1 mb-3" />
                 <h5>No Fees</h5>
-                <p>OSPI is free to use with no registration or licensing costs.</p>
+                <p>OSPI is free to use, with no registration or licensing costs.</p>
               </div>
             </div>
-            <div className="col-md-6 col-lg-3 mb-4">
-              <div className="card card-body border-0 shadow-sm text-center">
-                <FontAwesomeIcon icon={faPrint} className="fs-2 text-gradient gradient-2 mb-3" />
+            <div className="col-md-3 mb-4">
+              <div className="card card-body border-0 shadow text-center h-100 p-4">
+                <FontAwesomeIcon icon={faPrint} size="2x" className="text-gradient gradient-2 mb-3" />
                 <h5>Open Source</h5>
-                <p>The protocol is open source, allowing businesses to contribute and adapt it to their needs.</p>
+                <p>Contribute to and customize the open-source OSPI protocol.</p>
               </div>
             </div>
-            <div className="col-md-6 col-lg-3 mb-4">
-              <div className="card card-body border-0 shadow-sm text-center">
-                <FontAwesomeIcon icon={faGlobe} className="fs-2 text-gradient gradient-3 mb-3" />
+            <div className="col-md-3 mb-4">
+              <div className="card card-body border-0 shadow text-center h-100 p-4">
+                <FontAwesomeIcon icon={faGlobe} size="2x" className="text-gradient gradient-3 mb-3" />
                 <h5>Global Compatibility</h5>
-                <p>OSPI codes are compatible with global supply chain systems.</p>
+                <p>OSPI codes work seamlessly with global logistics systems.</p>
               </div>
             </div>
-            <div className="col-md-6 col-lg-3 mb-4">
-              <div className="card card-body border-0 shadow-sm text-center">
-                <FontAwesomeIcon icon={faShieldAlt} className="fs-2 text-gradient gradient-4 mb-3" />
-                <h5>Decentralized Control</h5>
-                <p>Businesses have full control over their product identifiers without a governing body.</p>
+            <div className="col-md-3 mb-4">
+              <div className="card card-body border-0 shadow text-center h-100 p-4">
+                <FontAwesomeIcon icon={faShieldAlt} size="2x" className="text-gradient gradient-4 mb-3" />
+                <h5>Decentralized</h5>
+                <p>No central control, giving businesses full flexibility.</p>
               </div>
             </div>
           </div>
