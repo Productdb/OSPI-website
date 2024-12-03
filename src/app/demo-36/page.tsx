@@ -14,23 +14,6 @@ import { demos } from "data/demo-34";
 export default function Demo34() {
   return (
     <Fragment>
-      {/* ========== topbar alert section ========== */}
-      <div className="alert bg-primary text-white fade show rounded-0 mb-1 text-center" role="alert">
-        <div className="container">
-          <div className="alert-inner d-flex justify-content-center align-items-center p-0">
-            <p className="mb-0">
-              HTML version of Sandbox is released! Grab a copy{" "}
-              <a
-                href="https://sandbox.elemisthemes.com"
-                className="link-white hover d-inline-flex align-items-center"
-                target="_blank">
-                here <i className="uil uil-arrow-up-right" />
-              </a>
-            </p>
-          </div>
-        </div>
-      </div>
-
       {/* ========== header section ========== */}
       <header className="wrapper bg-soft-primary">
         <Navbar
