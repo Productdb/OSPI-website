@@ -25,9 +25,8 @@ export default function Footer8() {
           <div className="col-md-4 col-lg-3">
             <div className="widget">
               <h4 className="widget-title text-white mb-3">Get in Touch</h4>
-              <address className="pe-xl-15 pe-xxl-17">Moonshine St. 14/05 Light City, London, United Kingdom</address>
-              <NextLink title="info@email.com" href="mailto:#" />
-              <br /> 00 (123) 456 78 90
+              <NextLink title="contact@ospi-standard.org" href="mailto:contact@ospi-standard.org" />
+              <br />
             </div>
           </div>
 
