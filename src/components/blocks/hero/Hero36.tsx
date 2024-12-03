@@ -11,20 +11,20 @@ export default function Hero36() {
         <div className="row gx-2 gy-10 align-items-center">
           <div className="col-md-10 offset-md-1 offset-lg-0 col-lg-5 text-center text-lg-start order-2 order-lg-0">
             <h1 className="display-1 mb-5 mx-md-10 mx-lg-0" style={slideInDownAnimate("600ms")}>
-              Create a powerful but effortless website for <br />
+              Create a powerful but effortless productpage with <br />
               <span className="typer text-primary text-nowrap">
                 <Typewriter
                   options={{
                     loop: true,
                     autoStart: true,
-                    strings: ["your business.", "your portfolio.", "your startup.", "digital marketing."]
+                    strings: ["Product attributes.", "buy locations.", "promotions.", "company branding."]
                   }}
                 />
               </span>
             </h1>
 
             <p className="lead fs-23 mb-7" style={slideInDownAnimate("900ms")}>
-              Build Performant & SEO freindly website in minutes with Sandbox React.
+              Build Performant & SEO friendly product page in minutes.
             </p>
 
             <div
