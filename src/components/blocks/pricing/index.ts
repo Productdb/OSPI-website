@@ -11,6 +11,7 @@ import Pricing8 from "./Pricing8";
 import Pricing9 from "./Pricing9";
 import Pricing10 from "./Pricing10";
 import Pricing11 from "./Pricing11";
+import Pricing12 from "./Pricing12";
 
 export {
   Pricing1,
@@ -23,5 +24,6 @@ export {
   Pricing8,
   Pricing9,
   Pricing10,
-  Pricing11
+  Pricing11,
+  Pricing12
 };

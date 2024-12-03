@@ -32,6 +32,8 @@ import Hero31 from "./Hero31";
 import Hero32 from "./Hero32";
 import Hero33 from "./Hero33";
 import Hero34 from "./Hero34";
+import Hero35 from "./Hero35";
+import Hero36 from "./Hero36";
 
 export {
   Hero1,
@@ -67,5 +69,7 @@ export {
   Hero31,
   Hero32,
   Hero33,
-  Hero34
+  Hero34,
+  Hero35,
+  Hero36
 };
